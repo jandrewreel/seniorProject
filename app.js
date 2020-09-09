@@ -15,7 +15,7 @@ var cookieParser = require('cookie-parser');
 var fetch = require("node-fetch");
 
 var client_id = '6f83827f0d1c424982ffedc35463f1e2'; // Your client id
-var client_secret = '68c8192021ea47e388924790eb89ee0c'; // Your secret
+var client_secret = 'XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX'; // Your secret
 var redirect_uri = 'http://localhost:5000/callback'; // Your redirect uri
 
 /**
